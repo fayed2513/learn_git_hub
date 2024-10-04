@@ -75,4 +75,5 @@ void main() {
   //     //  printf("->");
   //   }
   insertatend(a,n);
+  my data ins
 }
